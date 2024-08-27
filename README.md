@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
