@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
