@@ -1,44 +1,32 @@
 class Solution {
 public:
 
-    bool combination(vector<int>& nums, int pos, int target, int length, vector<int>& currentSeq, vector<vector<int>>& output) {
-        if(currentSeq.size() > length) {
-            return false;
+    void combination(vector<int>& nums, int ind, int target, int length, vector<int>& ds, vector<vector<int>>& output) {
+       
+        if(target == 0 && ds.size() == length) {
+            output.push_back(ds);
+            return;
         }
-        if(target == 0 && currentSeq.size() == length) {
-            output.push_back(currentSeq);
-            return true;
+        if(target < 0 || ds.size() > length) {
+            return;
         }
-        else if(target < 0) {
-            return false;
-        }
-
-        for(int i = pos; i < nums.size(); ++i) {
-            currentSeq.push_back(nums[i]);
-
-            auto result = combination(nums, i+1, target-nums[i], length, currentSeq, output);
-
-            currentSeq.pop_back();
-
-            if(!result) {
-                return true;
+        for(int i = ind; i < nums.size(); i++) {
+            if(nums[i] <= target) {
+                ds.push_back(nums[i]);
+                combination(nums, i + 1, target - nums[i], length , ds, output);
+                ds.pop_back();
             }
         }
-        return true;
     }
+    
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>> output;
-        vector<int> currentSeq;
+        vector<int> ds;
         vector<int> nums(9);
         iota(nums.begin(), nums.end(), 1);
 
-        combination(nums, 0, n, k, currentSeq, output);
-
+        combination(nums, 0, n, k, ds, output);
 
         return output;
     }
-
-
-    
-
 };
