@@ -17,7 +17,7 @@ public:
 
 
 
-             if (nums[mid]<nums[mid+1]){
+             if (mid < n - 1 &&nums[mid]<nums[mid+1]){
                 low= mid+1;
              }
              else{
