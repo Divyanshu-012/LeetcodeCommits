@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
 ## Breadth-First Search
 |  |
 | ------- |
