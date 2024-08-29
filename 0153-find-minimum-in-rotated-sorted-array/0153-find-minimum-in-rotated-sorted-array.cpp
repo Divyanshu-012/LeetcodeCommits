@@ -19,12 +19,12 @@ public:
                 return nums[mid];
             }
 
-            if(nums[mid]<nums[high]){
-                high= mid-1;
+            if(nums[mid]>nums[high]){
+                low= mid+1;
             }
 
             else{
-                low= mid+1;
+                high= mid-1;
             }
         }
 
