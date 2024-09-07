@@ -1,51 +1,38 @@
 class Solution {
 public:
-    // Similar to book allocation
 
-    bool solve(vector<int>& a,int mid, int n, int m)
-    {
-        int sc=1;
-        long long sum=0;
-        for(int i=0;i<n;++i)
-        {
-            if(sum+a[i]>mid)
-            {
-                sc++;
-                sum=a[i];
-                if(sc>m || a[i]>mid) return false; //edge case
+
+    int findSum(vector<int> &nums, int mid){
+        int sum = 0;
+        int Lsum = 1;
+        for(int i = 0; i<nums.size(); i++){
+            if(sum + nums[i] <= mid){
+                sum += nums[i];
             }
-            else
-            {
-                sum+=a[i];
+            else{
+                Lsum++;
+                sum = nums[i];
             }
-            
         }
-        return true;
+        return Lsum;
     }
     int splitArray(vector<int>& nums, int k) {
-        int n=nums.size();
-        int sum=0;
-        for(int i=0;i<n;++i)
-        {
-            sum+=nums[i];
-        }
-        int s=0;
-        int e=sum;
-        int ans=-1;
-        while(s<=e)
-        {
-            int mid=s+(e-s)/2;
-            if(solve(nums,mid,n,k))
-            {
-                ans=mid;
-                e=mid-1;
+        
+        int low = *max_element(nums.begin(),nums.end());
+        int high  = accumulate(nums.begin(),nums.end(),0);
+
+        while(low<= high ){
+            int  mid = low + (high - low)/2;
+
+            int Lsum = findSum(nums, mid);
+
+            if(Lsum > k){
+                low = mid+1;
             }
-            else
-            {
-                s=mid+1;
+            else{
+                high = mid-1;
             }
         }
-        return ans;
-    
+        return low;
     }
 };
