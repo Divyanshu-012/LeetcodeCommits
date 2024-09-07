@@ -13,7 +13,11 @@ public:
             }
         }
         noOfB += (cnt / k);
-        return noOfB >= m;
+        if (noOfB >= m) {
+        return true;
+    } else {
+        return false;
+    }
     }
 
     int minDays(vector<int>& bloomDay, int m, int k) {
