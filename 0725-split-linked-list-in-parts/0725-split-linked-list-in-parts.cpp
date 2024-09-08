@@ -11,31 +11,27 @@ public:
 
         
         int equal = cnt / k;
-        int extra = cnt % k;
+        int rem = cnt % k;
 
         
+        vector<ListNode*> res(k,NULL);
         ListNode* current = head;
-        vector<ListNode*>ans;
-
-        while(k--){
-            int t=equal;
-           if(extra>0) t++;
-            t--;
-            ListNode* newHead=current;
-            ListNode* temp=newHead;
-            while(newHead && t--){
-                newHead=newHead->next;
-            }
-            if(newHead){
-                current=newHead->next;
-                newHead->next=NULL;
-            }
-            ans.push_back(temp);
-            extra--;
-        }
-
         
-
-        return ans;
+        for (int i = 0; i < k; i++) {
+            if (current == NULL) break; 
+            res[i] = current;
+            int part_size = equal;
+            if (rem > 0) {
+                part_size++; 
+                rem--;
+            }
+            for (int j = 1; j < part_size; j++) {
+                current = current->next;
+            }
+            ListNode* next = current->next;
+            current->next = NULL;
+            current = next;
+        }
+        return res;
     }
 };
