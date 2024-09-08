@@ -14,12 +14,12 @@ public:
         int rem = cnt % k;
 
         
-        vector<ListNode*> res(k,NULL);
+        vector<ListNode*> ans(k,NULL);
         ListNode* current = head;
         
         for (int i = 0; i < k; i++) {
             if (current == NULL) break; 
-            res[i] = current;
+            ans[i] = current;
             int part_size = equal;
             if (rem > 0) {
                 part_size++; 
@@ -32,6 +32,6 @@ public:
             current->next = NULL;
             current = next;
         }
-        return res;
+        return ans;
     }
 };
