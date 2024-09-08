@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        // Step 1: Count the number of nodes
+       
         ListNode* temp = head;
         int cnt = 0;
         while (temp != nullptr) {
@@ -9,25 +9,33 @@ public:
             temp = temp->next;
         }
 
-        // Step 2: Calculate the size of each part
-        int partSize = cnt / k;
+        
+        int equal = cnt / k;
         int extra = cnt % k;
 
-        vector<ListNode*> result(k, nullptr);
+        
         ListNode* current = head;
+        vector<ListNode*>ans;
 
-        for (int i = 0; i < k && current != nullptr; i++) {
-            result[i] = current;
-            int currentPartSize = partSize + (extra-- > 0 ? 1 : 0);
-
-            for (int j = 1; j < currentPartSize; j++) {
-                current = current->next;
+        while(k--){
+            int t=equal;
+           if(extra>0) t++;
+            t--;
+            ListNode* newHead=current;
+            ListNode* temp=newHead;
+            while(newHead && t--){
+                newHead=newHead->next;
             }
-            ListNode* nextPart = current->next;
-            current->next = nullptr;
-            current = nextPart;
+            if(newHead){
+                current=newHead->next;
+                newHead->next=NULL;
+            }
+            ans.push_back(temp);
+            extra--;
         }
 
-        return result;
+        
+
+        return ans;
     }
 };
