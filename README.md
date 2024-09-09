@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
