@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
