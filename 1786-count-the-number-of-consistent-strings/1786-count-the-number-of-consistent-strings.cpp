@@ -16,8 +16,8 @@ public:
 
         
         for (int j = 0; j < word.length(); j++) {
-            // If the character is not in allowedSet
             
+            //badically this check is true when character is not present 
             if (allowedSet.find(word[j]) == allowedSet.end()) {  
                 isConsistent = false;
                 break;  
