@@ -6,7 +6,7 @@ public:
     for (char &c : allowed) {
         allowedSet.insert(c);
     }
-    // count the number of consistent strings
+    
     int count = 0;  
 
     
@@ -16,18 +16,22 @@ public:
 
         
         for (int j = 0; j < word.length(); j++) {
-            if (allowedSet.find(word[j]) == allowedSet.end()) {  // If the character is not in allowedSet
+            // If the character is not in allowedSet
+            
+            if (allowedSet.find(word[j]) == allowedSet.end()) {  
                 isConsistent = false;
-                break;  // No need to check further, this word is inconsistent
+                break;  
             }
         }
 
         if (isConsistent) {
-            count++;  // Increment count if the word is consistent
+            count++;  
         }
+
+    }
+    return count;
     }
 
-    return count;  // Return the total number of consistent strings
-}
+     
 
 };
