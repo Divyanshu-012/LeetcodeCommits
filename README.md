@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1666-make-the-string-great](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0907-koko-eating-bananas) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
