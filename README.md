@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
