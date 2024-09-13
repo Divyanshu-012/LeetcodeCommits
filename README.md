@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
