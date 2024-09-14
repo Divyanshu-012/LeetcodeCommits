@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
