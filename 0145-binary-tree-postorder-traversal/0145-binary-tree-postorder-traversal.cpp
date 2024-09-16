@@ -3,16 +3,16 @@ using namespace std;
 
 class Solution {
 public:
-    void find(TreeNode* root, vector<int>& ans) {
+    void postorder(TreeNode* root, vector<int>& ans) {
         if (!root) return;
-        find(root->left, ans);
-        find(root->right, ans);
+        postorder(root->left, ans);
+        postorder(root->right, ans);
         ans.push_back(root->val);
     }
     
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
-        find(root, ans);
+        postorder(root, ans);
         return ans;
     }
 };
