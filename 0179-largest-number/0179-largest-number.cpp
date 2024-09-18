@@ -1,21 +1,26 @@
 class Solution {
 public:
-    static bool cmp(string a, string b){
-        return a+b>b+a;
-    }
     string largestNumber(vector<int>& nums) {
-        vector<string> str;
-        for(int n:nums){
-            str.push_back(to_string(n));
+        // Convert the integers to strings
+        vector<string> strNums;
+        for (int num : nums) {
+            strNums.push_back(to_string(num));
         }
 
-        sort(str.begin(), str.end(), cmp);
-        if(str[0] == "0") return "0";
-        string ans = "";
+        // Custom sort comparator
+        sort(strNums.begin(), strNums.end(), [](const string &a, const string &b) {
+            return a + b > b + a;
+        });
 
-        for(string s:str){
-            ans += s;
+        // If the largest number is '0', then the entire number is '0'
+        if (strNums[0] == "0") return "0";
+
+        // Concatenate the sorted strings
+        string largestNum = "";
+        for (string s : strNums) {
+            largestNum += s;
         }
-        return ans;
+
+        return largestNum;
     }
 };
