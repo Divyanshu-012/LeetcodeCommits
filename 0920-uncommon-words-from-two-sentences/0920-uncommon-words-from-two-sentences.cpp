@@ -11,24 +11,24 @@ public:
     vector<string> words;  // Stores the split words
     string word = "";  // Temporarily holds characters of the current word
 
-    // Loop through each character of the sentence
+    
     for (char ch : sentence) {
-        if (ch == ' ') {  // If a space is found, the word is complete
-            if (!word.empty()) {  // Ensure that we're not adding empty strings
-                words.push_back(word);  // Add the word to the list
-                word = "";  // Reset the word
+        if (ch == ' ') {  
+            if (!word.empty()) {  
+                words.push_back(word);  
+                word = "";  
             }
         } else {
-            word += ch;  // Keep building the current word
+            word += ch; 
         }
     }
 
-    // Add the last word to the list if it's non-empty
+    // Add the last word 
     if (!word.empty()) {
         words.push_back(word);
     }
 
-    return words;  // Return the list of words
+    return words;  
 }
 
 
