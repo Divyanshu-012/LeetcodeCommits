@@ -20,7 +20,7 @@ public:
             todo.pop();
             TreeNode* node = p.first;
             int x = p.second.first, y = p.second.second;
-            nodes[x][y].insert(node->val);
+            nodes[x][y].emplace(node->val);
             if(node->left){
                 todo.push({node->left , {x-1, y+1}});
 
