@@ -1,26 +1,35 @@
-
-
 class Solution {
 public:
-    int minExtraChar(string s, vector<string>& dictionary) {
-        unordered_set<string> dict(dictionary.begin(), dictionary.end()); // Set for O(1) lookup
-        int n = s.size();
-        vector<int> dp(n + 1, n); // DP array initialized with maximum extra characters
+    int function(int i , string s, unordered_set<string>& st,int &n, vector<int>&memo){
         
-        dp[0] = 0; // No extra characters for an empty string
-        
-        // Iterate through each index in the string
-        for (int i = 1; i <= n; i++) {
-            // Try all possible substrings ending at i
-            for (int j = 0; j < i; j++) {
-                string sub = s.substr(j, i - j); // Get the substring s[j:i]
-                if (dict.find(sub) != dict.end()) {
-                    dp[i] = min(dp[i], dp[j]); // If substring is found in dictionary
-                }
-            }
-            dp[i] = min(dp[i], dp[i - 1] + 1); // Consider the current character as extra
+        if(i >= n){
+            return 0 ;
+        }
+
+        if(memo[i] != -1){
+            return memo[i];
         }
         
-        return dp[n]; // Result stored in dp[n]
+        int result  =  1 + function(i+1,s,st,n,memo);
+
+        for(int j = i;j<n;j++){
+            string curr = s.substr(i,j-i+1);
+            if(st.count(curr)){
+                result = min(result,function(j+1,s,st,n,memo));
+            }
+
+        }
+
+        return memo[i] = result;
+        
+
+    }
+    int minExtraChar(string s, vector<string>& dictionary) {
+        int  n = s.length();
+        vector<int>memo(n,-1);
+        unordered_set<string>st(begin(dictionary),end(dictionary));
+        return function(0,s,st,n,memo);
+        
+        
     }
 };
