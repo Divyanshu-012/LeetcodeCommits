@@ -6,7 +6,7 @@ public:
         
         
         sort(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end());
-        sortedUniqueNumbers.erase(std::unique(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end()), sortedUniqueNumbers.end());
+        sortedUniqueNumbers.erase(unique(sortedUniqueNumbers.begin(), sortedUniqueNumbers.end()), sortedUniqueNumbers.end());
         
         
         for (int i = 0; i < sortedUniqueNumbers.size(); i++) {
