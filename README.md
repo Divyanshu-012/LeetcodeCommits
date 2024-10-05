@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Number Theory
 |  |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1497-design-a-stack-with-increment-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
