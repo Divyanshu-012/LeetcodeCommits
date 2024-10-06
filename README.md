@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
+| [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,4 +350,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
+| [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 <!---LeetCode Topics End-->
