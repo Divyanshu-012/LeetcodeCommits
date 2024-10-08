@@ -1,27 +1,28 @@
 class Solution {
 public:
     int minLength(string s) {
-        stack<char> stack;
+        string s1 = "CD";
+        string s2 = "AB";
 
-        for (int i = 0; i < s.length(); i++) {
-            char cur_char = s[i];
+        int  i =0;
+        while(i<s.size()){
+            
+            string currStr1 = s.substr(i, s1.size());
+            string currStr2 = s.substr(i, s2.size());
+            if(currStr1 == s1 || currStr2 == s2 ){
+                
+                s.erase(i, 2);
+                if (i > 0) {
+                    i--;  
+                }
 
-            if (stack.empty()) {
-                stack.push(cur_char);
-                continue;
             }
-
-            if (cur_char == 'B' && stack.top() == 'A') {
-                stack.pop();
-            }
-            else if (cur_char == 'D' && stack.top() == 'C') {
-                stack.pop();
-            }
-            else {
-                stack.push(cur_char);
+            else{
+                i++;
             }
         }
 
-        return stack.size();
+        return s.size();
+
     }
 };
