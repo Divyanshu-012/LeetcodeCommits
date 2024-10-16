@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-    long long maxKelements(std::vector<int>& nums, int k) {
+    long long maxKelements(vector<int>& nums, int k) {
         long long sum = 0;
         priority_queue<int> maxHeap(nums.begin(), nums.end());  
         for (int i = 0; i < k; ++i) {
