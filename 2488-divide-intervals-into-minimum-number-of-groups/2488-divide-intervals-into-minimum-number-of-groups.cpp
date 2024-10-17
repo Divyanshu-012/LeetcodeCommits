@@ -1,29 +1,29 @@
 class Solution {
 public:
     int minGroups(vector<vector<int>>& intervals) {
-        vector<int> start_times, end_times;
+        // step 1
+        sort(intervals.begin(), intervals.end());
+        // step 2
+        priority_queue<int, vector<int>, greater<int>> pq;
 
-        // Extract start and end times
-        for (const auto& interval : intervals) {
-            start_times.push_back(interval[0]);
-            end_times.push_back(interval[1]);
-        }
 
-        // Sort start and end times
-        sort(start_times.begin(), start_times.end());
-        sort(end_times.begin(), end_times.end());
+        // step 3 
 
-        int end_ptr = 0, group_count = 0;
+        for(auto interval : intervals ){
+            int start  = interval[0];
+            int end = interval[1];
 
-        // Traverse through the start times
-        for (int start : start_times) {
-            if (start > end_times[end_ptr]) {
-                end_ptr++;
-            } else {
-                group_count++;
+            if(!pq.empty() && start > pq.top()){
+                pq.pop();
             }
+
+            pq.push(end);
+
         }
 
-        return group_count;
+        return pq.size();
+
+
+
     }
 };
