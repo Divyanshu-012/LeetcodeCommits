@@ -1,9 +1,9 @@
 class Solution {
 public:
-    typedef pair<int,char>P;
+    // typedef pair<int,char>P;
     string longestDiverseString(int a, int b, int c) {
         string s = "";
-        priority_queue<P,vector<P>>pq;
+        priority_queue<pair<int,char>>pq;
 
         if (a > 0) pq.push({a,'a'});
 
