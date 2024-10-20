@@ -1,47 +1,59 @@
 class Solution {
 public:
-    bool parseBoolExpr(string expression) {
-        stack<char> stk;  // Stack to hold characters and operators
-        
-        // Iterate over each character in the expression
-        for (char c: expression) {
-            // Push valid characters (non ')' and non ',') to the stack
-            if (c != ')' && c != ',') stk.push(c);
-            else if (c == ')') {  // When ')' is encountered, evaluate subexpression
-                vector<bool> exp;  // Vector to hold boolean values of the current subexpression
-                
-                // Pop characters until '(' is found, collect 't' or 'f' values
-                while (!stk.empty() && stk.top() != '(') {
-                    char t = stk.top(); 
-                    stk.pop();
-                    if (t == 't') exp.push_back(true);
-                    else exp.push_back(false);
-                }
-                
-                stk.pop();  // Pop the '(' from the stack
-                
-                if (!stk.empty()) {
-                    char t = stk.top();  // Get the operator before '('
-                    stk.pop();
-                    bool v = exp[0];  // Initialize result with the first value
-                    
-                    // Perform the corresponding logical operation
-                    if (t == '&') {  // AND operation: all values must be true
-                        for (bool b: exp) v &= b;
-                    } else if (t == '|') {  // OR operation: at least one value is true
-                        for (bool b: exp) v |= b;
-                    } else {  // NOT operation: negate the first value
-                        v = !v;
-                    }
-                    
-                    // Push the result back to the stack as 't' or 'f'
-                    if (v) stk.push('t');
-                    else stk.push('f');
+
+    char solve(vector<char> &values, char op){  // Change vector<int> to vector<char>
+        if(op == '!'){
+            return values[0] == 't' ? 'f' : 't';  // Fix type comparison with 't' and 'f'
+        }
+
+        if(op == '&'){
+            for(auto ch : values){
+                if(ch == 'f'){  // Check for 'f' correctly
+                    return 'f';
                 }
             }
+            return 't';  // Return 't' if no 'f' is found
         }
-        
-        // Return the final result from the stack
-        return stk.top() == 't' ? true : false;
+
+        if(op == '|'){
+            for(auto ch : values){
+                if(ch == 't'){  // Check for 't' correctly
+                    return 't';
+                }
+            }
+            return 'f';  // Return 'f' if no 't' is found
+        }
+
+        return 't';  // Will never reach this point
+    }
+
+    bool parseBoolExpr(string expression) {
+        int n = expression.length();
+        stack<char> st;
+
+        for(int i = 0; i < n; i++){
+            if(expression[i] == ',') 
+                continue;
+            
+            if(expression[i] == ')'){
+                vector<char> values;
+
+                while(st.top() != '('){
+                    values.push_back(st.top());
+                    st.pop();
+                }
+
+                st.pop(); // Remove '('
+                char op = st.top(); // !,&,|
+                st.pop();
+
+                st.push(solve(values, op));  // Push the result back onto the stack
+
+            } else {
+                st.push(expression[i]);  // Push the current character onto the stack
+            } 
+        }
+
+        return st.top() == 't' ? true : false;  // Final evaluation
     }
 };
