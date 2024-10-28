@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 ## Array
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting
 |  |
