@@ -13,6 +13,7 @@ class Solution {
 public:
     
     void largestSum(TreeNode* root, vector<long long> &sum) {
+         if (!root) return;
         queue<pair<TreeNode*, int>> q;  
         q.push({root, 0});
 
