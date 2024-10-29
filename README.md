@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 ## Bit Manipulation
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
