@@ -1,8 +1,9 @@
 class Solution {
 public:
-    bool isPrime[1000];
 
+    bool isPrime[1000];
     void Sieve(){ //O(1)
+        //fill syntax -- fill(start,end,value);
         fill(isPrime, isPrime+1000,true); // initialise the array ith all true 
         isPrime[0] = false;
         isPrime[1] = false;
