@@ -6,8 +6,7 @@ public:
         vis[node] = 1;
         for(auto it : adjLs[node]){
             if(!vis[it]){
-                dfs(it, vis, adjLs);
-                
+                dfs(it, vis, adjLs);   
             }
 
         }
@@ -35,7 +34,5 @@ public:
             }
         }
         return cnt;
-
-        
     }
 };
