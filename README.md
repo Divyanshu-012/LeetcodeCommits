@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -312,12 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0547-number-of-provinces) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
+| [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
