@@ -30,6 +30,7 @@ public:
         
         for(int j = 0 ; j<m;j++) {
             
+            //first row
             if(!vis[0][j] && board[0][j] == 'O') {
                 dfs(0, j, vis, board, delrow, delcol); 
             }
