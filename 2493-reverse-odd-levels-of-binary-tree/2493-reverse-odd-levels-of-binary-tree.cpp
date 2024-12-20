@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
-        traverseDFS(root->left, root->right, 0);
+        traverseDFS(root->left, root->right, 1);
         return root;
     }
 
@@ -22,7 +22,7 @@ private:
             return;
         }
         
-        if (level % 2 == 0) {
+        if (level % 2 != 0) {
             int temp = leftChild->val;
             leftChild->val = rightChild->val;
             rightChild->val = temp;
