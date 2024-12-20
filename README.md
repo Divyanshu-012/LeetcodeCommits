@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
