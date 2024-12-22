@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 ## Bit Manipulation
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1666-make-the-string-great) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |
@@ -529,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0820-find-eventual-safe-states) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
