@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
