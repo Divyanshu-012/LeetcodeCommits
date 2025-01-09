@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3195-separate-black-and-white-balls) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2554-minimum-total-distance-traveled) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
