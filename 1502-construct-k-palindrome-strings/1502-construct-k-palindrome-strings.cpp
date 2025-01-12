@@ -16,10 +16,8 @@ public:
 
         }
 
-        if (cntO> k) return false;
-        if (cntO ==  k) return true; 
-        if (cntO < k ) return true; 
+        if (cntO <= k ) return true; 
 
-        return true ;
+        return false;
     }
 };
