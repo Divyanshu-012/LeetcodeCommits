@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2509-minimize-xor](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2509-minimize-xor](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3195-separate-black-and-white-balls) |
