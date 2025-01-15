@@ -1,42 +1,38 @@
 class Solution {
 public:
-    bool canBeValid(string s, string locked) {
-        int length = s.size();
-        // If length of string is odd, return false.
-        if (length % 2 == 1) {
+    bool canBeValid(string s, string l) {
+        int n = s.size();
+       
+        if (n % 2 == 1) {
             return false;
         }
-
-        stack<int> openBrackets, unlocked;
-
-        // Iterate through the string to handle '(' and ')'
-        for (int i = 0; i < length; i++) {
-            if (locked[i] == '0') {
-                unlocked.push(i);
-            } else if (s[i] == '(') {
-                openBrackets.push(i);
-            } else if (s[i] == ')') {
-                if (!openBrackets.empty()) {
-                    openBrackets.pop();
-                } else if (!unlocked.empty()) {
-                    unlocked.pop();
-                } else {
-                    return false;
-                }
+        stack<int>open;
+        stack<int>OC;
+        for(int i = 0 ; i< n;i++){
+            if(l[i] == '0') OC.push(i);
+            else if(s[i] == '(' ){
+                open.push(i);
             }
+            else if(s[i] == ')'){
+                if(open.size() > 0){
+                    open.pop();
+                }
+                else if (!OC.empty()){
+                    OC.pop();
+                }
+                else return false;
+                
+            }
+    
         }
 
-        // Match remaining open brackets with unlocked characters
-        while (!openBrackets.empty() && !unlocked.empty() &&
-               openBrackets.top() < unlocked.top()) {
-            openBrackets.pop();
-            unlocked.pop();
+        
+        while(!open.empty() && !OC.empty() && open.top() < OC.top()){
+            open.pop();
+            OC.pop();
+
         }
 
-        if (!openBrackets.empty()) {
-            return false;
-        }
-
-        return true;
+        return open.empty();
     }
 };
