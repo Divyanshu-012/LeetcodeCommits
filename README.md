@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
