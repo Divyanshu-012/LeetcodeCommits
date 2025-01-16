@@ -8,16 +8,16 @@ public:
         int l2 = nums2.size();
 
         
+        if(l1 % 2 == 0 && l2 % 2 == 0) return 0;
+        if( l1 % 2 != 0){
+            for(auto  i : nums2){
+                xor2 ^= i;
+            }
+        }
 
         if( l2 % 2 != 0){
             for(auto  i : nums1){
                 xor1 ^= i;
-            }
-        }
-
-        if( l1 % 2 != 0){
-            for(auto  i : nums2){
-                xor2 ^= i;
             }
         }
         
