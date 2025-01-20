@@ -5,14 +5,14 @@ public:
     vector<vector<int>> dirs = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
 
     int minCost(vector<vector<int>>& grid) {
-        int numRows = grid.size(), numCols = grid[0].size();
+        int m = grid.size(), n = grid[0].size();
 
         // Min-heap ordered by cost. Each element is {cost, row, col}
         priority_queue<vector<int>, vector<vector<int>>, greater<>> pq;
         pq.push({0, 0, 0});
 
         // Track minimum cost to reach each cell
-        vector<vector<int>> minCost(numRows, vector<int>(numCols, INT_MAX));
+        vector<vector<int>> minCost(m, vector<int>(n, INT_MAX));
         minCost[0][0] = 0;
 
         while (!pq.empty()) {
@@ -29,8 +29,8 @@ public:
                 int newCol = col + dirs[dir][1];
 
                 // Check if new position is valid
-                if (newRow >= 0 && newRow < numRows && newCol >= 0 &&
-                    newCol < numCols) {
+                if (newRow >= 0 && newRow < m && newCol >= 0 &&
+                    newCol < n) {
                     // Add cost=1 if we need to change direction
                     int newCost = cost + (dir != (grid[row][col] - 1) ? 1 : 0);
 
@@ -43,6 +43,6 @@ public:
             }
         }
 
-        return minCost[numRows - 1][numCols - 1];
+        return minCost[m - 1][n - 1];
     }
 };
