@@ -1,16 +1,24 @@
 class Solution {
 public:
     long long gridGame(vector<vector<int>>& grid) {
-        long long firstRowSum = accumulate(begin(grid[0]), end(grid[0]), 0LL),
-                  secondRowSum = 0;
-        long long minimumSum = LONG_LONG_MAX;
-        for (int turnIndex = 0; turnIndex < grid[0].size(); ++turnIndex) {
-            firstRowSum -= grid[0][turnIndex];
-            // Find the minimum maximum value out of firstRowSum and
-            // secondRowSum.
-            minimumSum = min(minimumSum, max(firstRowSum, secondRowSum));
-            secondRowSum += grid[1][turnIndex];
+        long long firstRowRemainingSum  =  accumulate(begin(grid[0]), end(grid[0]),0LL);
+
+        long long secondRowRemainingSum = 0;
+
+        long long  minimizedRobot2Sum = LONG_LONG_MAX;
+
+        for(int Robot1Col = 0 ; Robot1Col < grid[0].size(); Robot1Col++ ){
+            // robot 1 took this strategy 
+            firstRowRemainingSum -= grid[0][Robot1Col];
+
+            long long bestOfRobot2 = max(firstRowRemainingSum, secondRowRemainingSum);
+
+
+            minimizedRobot2Sum  = min(minimizedRobot2Sum,bestOfRobot2 );
+
+            secondRowRemainingSum += grid[1][Robot1Col];
         }
-        return minimumSum;
+        return minimizedRobot2Sum;
+        
     }
 };
