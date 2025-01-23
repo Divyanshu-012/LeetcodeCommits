@@ -1,64 +1,49 @@
 class Solution {
 public:
     vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
-        int dx[4] = {0, 0, 1,
-                     -1};  // Horizontal movement: right, left, down, up
-        int dy[4] = {1, -1, 0, 0};  // Vertical movement corresponding to dx
+        int m =  isWater.size() , n = isWater[0].size();
+        // FIND 1 and shift them to 0 and if its 0 shift them to -ve
 
-        int rows = isWater.size();
-        int columns = isWater[0].size();
+        vector<vector<int>> h(m,vector<int>(n,-1));
+        queue<pair<int,int>>q;
 
-        // Initialize the height matrix with -1 (unprocessed cells)
-        vector<vector<int>> cellHeights(rows, vector<int>(columns, -1));
+        for(int i = 0; i< m; i++){
+            for(int j = 0; j< n; j++){
+                if(isWater[i][j] == 1){
+                    h[i][j] = 0;
+                    q.push({i,j});
 
-        queue<pair<int, int>> cellQueue;
+                } 
+            }
+        }
+        int drow[] = {-1,1,0,0};
+        int dcol[] = {0,0,-1,1};
 
-        // Add all water cells to the queue and set their height to 0
-        for (int x = 0; x < rows; x++) {
-            for (int y = 0; y < columns; y++) {
-                if (isWater[x][y]) {
-                    cellQueue.push({x, y});
-                    cellHeights[x][y] = 0;
+    while(!q.empty()){
+        int s = q.size();
+
+        for(int k = 0 ;  k< s;k++){
+
+            int i = q.front().first;
+            int j = q.front().second;
+            q.pop();
+
+            for(int l = 0 ; l< 4 ;  l++){
+                int nrow = i+drow[l];
+                int ncol = j+dcol[l];
+
+                if(nrow < m && nrow >= 0 && ncol < n && ncol>=0 && h[nrow][ncol] == -1){
+                    h[nrow][ncol ] = h[i][j] +1;
+                    q.push({nrow,ncol});
                 }
+
             }
         }
 
-        // Initial height for land cells adjacent to water
-        int heightOfNextLayer = 1;
-
-        while (!cellQueue.empty()) {
-            int layerSize = cellQueue.size();
-
-            // Iterate through all cells in the current layer
-            for (int i = 0; i < layerSize; i++) {
-                pair<int, int> currentCell = cellQueue.front();
-                cellQueue.pop();
-
-                // Check all four possible directions for neighboring cells
-                for (int d = 0; d < 4; d++) {
-                    pair<int, int> neighborCell = {currentCell.first + dx[d],
-                                                   currentCell.second + dy[d]};
-
-                    // Check if the neighbor is valid and unprocessed
-                    if (isValidCell(neighborCell, rows, columns) &&
-                        cellHeights[neighborCell.first][neighborCell.second] ==
-                            -1) {
-                        cellHeights[neighborCell.first][neighborCell.second] =
-                            heightOfNextLayer;
-                        cellQueue.push(neighborCell);
-                    }
-                }
-            }
-            heightOfNextLayer++;  // Increment height for the next layer
-        }
-
-        return cellHeights;
     }
+        
 
-private:
-    // Function to check if a cell is within the grid boundaries
-    bool isValidCell(pair<int, int> cell, int rows, int columns) {
-        return cell.first >= 0 && cell.second >= 0 && cell.first < rows &&
-               cell.second < columns;
+        return h;
+        
     }
 };
