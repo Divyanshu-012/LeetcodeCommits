@@ -5,7 +5,7 @@ public:
 
         long long secondRowRemainingSum = 0;
 
-        long long  minimizedRobot2Sum = LONG_LONG_MAX;
+        long long  chosenRobot1Sum = LONG_LONG_MAX;
 
         for(int Robot1Col = 0 ; Robot1Col < grid[0].size(); Robot1Col++ ){
             // robot 1 took this strategy 
@@ -14,11 +14,11 @@ public:
             long long bestOfRobot2 = max(firstRowRemainingSum, secondRowRemainingSum);
 
 
-            minimizedRobot2Sum  = min(minimizedRobot2Sum,bestOfRobot2 );
+            chosenRobot1Sum  = min(chosenRobot1Sum,bestOfRobot2 );
 
             secondRowRemainingSum += grid[1][Robot1Col];
         }
-        return minimizedRobot2Sum;
+        return chosenRobot1Sum;
         
     }
 };
