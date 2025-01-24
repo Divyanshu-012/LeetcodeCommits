@@ -1,100 +1,50 @@
 class Solution {
 public:
-    int trapRainWater(vector<vector<int>>& heightMap) {
-        // Direction arrays
-        int dRow[4] = {0, 0, -1, 1};
-        int dCol[4] = {-1, 1, 0, 0};
+    int trapRainWater(vector<vector<int>>& hmap) {
+        int n =  hmap.size();
+        int m = hmap[0].size();
 
-        int numOfRows = heightMap.size();
-        int numOfCols = heightMap[0].size();
+        
+        priority_queue<pair<int,pair<int,int>>,vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>>>pq;
 
-        vector<vector<bool>> visited(numOfRows, vector<bool>(numOfCols, false));
+        vector<vector<bool>>vis(n,vector<bool>(m,false));
 
-        // Priority queue (min-heap) to process boundary cells in increasing
-        // height order
-        priority_queue<Cell> boundary;
 
-        // Add the first and last column cells to the boundary and mark them as
-        // visited
-        for (int i = 0; i < numOfRows; i++) {
-            boundary.push(Cell(heightMap[i][0], i, 0));
-            boundary.push(Cell(heightMap[i][numOfCols - 1], i, numOfCols - 1));
-            // Mark left and right boundary cells as visited
-            visited[i][0] = visited[i][numOfCols - 1] = true;
-        }
+        for(int i = 0; i< n ;i++){
+            for(int j = 0 ; j< m;j++){
+                if(i == 0 || j ==0 || i == n-1 || j == m-1){
+                    pq.push({hmap[i][j],{i,j}});
+                    vis[i][j] = true;
 
-        // Add the first and last row cells to the boundary and mark them as
-        // visited
-        for (int i = 0; i < numOfCols; i++) {
-            boundary.push(Cell(heightMap[0][i], 0, i));
-            boundary.push(Cell(heightMap[numOfRows - 1][i], numOfRows - 1, i));
-            // Mark top and bottom boundary cells as visited
-            visited[0][i] = visited[numOfRows - 1][i] = true;
-        }
-
-        int totalWaterVolume = 0;
-
-        while (!boundary.empty()) {
-            // Pop the cell with the smallest height from the boundary
-            Cell currentCell = boundary.top();
-            boundary.pop();
-
-            int currentRow = currentCell.row;
-            int currentCol = currentCell.col;
-            int minBoundaryHeight = currentCell.height;
-
-            // Explore all 4 neighboring cells
-            for (int direction = 0; direction < 4; direction++) {
-                int neighborRow = currentRow + dRow[direction];
-                int neighborCol = currentCol + dCol[direction];
-
-                // Check if the neighbor is within the grid bounds and not yet
-                // visited
-                if (isValidCell(neighborRow, neighborCol, numOfRows,
-                                numOfCols) &&
-                    !visited[neighborRow][neighborCol]) {
-                    int neighborHeight = heightMap[neighborRow][neighborCol];
-
-                    // If the neighbor's height is less than the current
-                    // boundary height, water can be trapped
-                    if (neighborHeight < minBoundaryHeight) {
-                        totalWaterVolume += minBoundaryHeight - neighborHeight;
-                    }
-
-                    // Push the neighbor into the boundary with updated height
-                    // (to prevent water leakage)
-                    boundary.push(Cell(max(neighborHeight, minBoundaryHeight),
-                                       neighborRow, neighborCol));
-                    visited[neighborRow][neighborCol] = true;
+                    
                 }
             }
         }
 
-        return totalWaterVolume;
-    }
+        int water = 0;
+        int deli[] = {0,0,-1,1};
+        int delj[] = {-1,1,0,0};
+        while(!pq.empty()){
+            int h = pq.top().first;
+            int i = pq.top().second.first;
+            int j = pq.top().second.second;
+            pq.pop();
 
-private:
-    // Struct to store the height and coordinates of a cell in the grid
-    class Cell {
-    public:
-        int height;
-        int row;
-        int col;
+            for(int k = 0; k< 4 ;k++){
+                int i_ = i + deli[k];
+                int j_ = j + delj[k];
 
-        // Constructor to initialize a cell
-        Cell(int height, int row, int col)
-            : height(height), row(row), col(col) {}
+                if(i_ < n && i_ > 0 && j_ < m && j_ > 0 && !vis[i_][j_]){
+                    water += max(h - hmap[i_][j_],0);
 
-        // Overload the comparison operator to make the priority queue a
-        // min-heap based on height
-        bool operator<(const Cell& other) const {
-            // Reverse comparison to simulate a min-heap
-            return height >= other.height;
+                    pq.push({max(h,hmap[i_][j_]),{i_,j_}});
+                    vis[i_][j_] = true;
+
+                }
+            }
+
         }
-    };
-
-    // Helper function to check if a cell is valid (within grid bounds)
-    bool isValidCell(int row, int col, int numOfRows, int numOfCols) {
-        return row >= 0 && col >= 0 && row < numOfRows && col < numOfCols;
+        return water;
+        
     }
 };
