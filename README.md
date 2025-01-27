@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0238-product-of-array-except-self) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0670-maximum-swap) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Topological Sort
 |  |
