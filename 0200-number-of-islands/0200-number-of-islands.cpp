@@ -1,12 +1,12 @@
 class Solution {
 public:
     void dfs(vector<vector<char>>& grid, int row, int col){
-        //checking boundaries and ensuring the cell is land, i.e, 1
+        
         if(row<0 || row>= grid.size() || col<0 || col>=grid[0].size() || grid[row][col]!='1'){
             return;
         }
-        grid[row][col]='#'; // marking as visited, can use 0 , 1,2 3, whatever instead of '#'
-        //exploring all directions
+        grid[row][col]='#'; 
+        
         dfs(grid, row+1, col);
         dfs(grid, row-1, col);
         dfs(grid, row, col+1);
