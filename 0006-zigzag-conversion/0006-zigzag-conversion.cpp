@@ -1,20 +1,24 @@
 class Solution {
 public:
     string convert(string s, int r) {
-        if (r == 1 || s.size() <= r) return s;
+        if (r == 1) return s; // No zigzag pattern needed
 
-        vector<string> rows(r);
-        int curRow = 0;
-        bool goingDown = false;
+        int n = s.size();
+        string ans;
+        int d = 2 * r - 2;
 
-        for (char c : s) {
-            rows[curRow] += c;
-            if (curRow == 0 || curRow == r - 1) goingDown = !goingDown;
-            curRow += goingDown ? 1 : -1;
+        for (int i = 0; i < r; i++) {
+            for (int j = 0; j + i < n; j += d) {
+                
+                ans += s[j + i];
+
+                
+                if (i != 0 && i != r - 1 && j + d - i < n) {
+                    ans += s[j + d - i];
+                }
+            }
         }
 
-        string ans;
-        for (string row : rows) ans += row;
         return ans;
     }
 };
