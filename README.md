@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2803-modify-graph-edge-weights) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -726,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
