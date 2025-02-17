@@ -1,56 +1,42 @@
 class Solution {
 public:
-    bool findPartitions(int startIndex, int sum, string stringNum, int target,
-                        vector<vector<int>>& memo) {
-        // Check if partition is valid
-        if (startIndex == stringNum.size()) {
-            return sum == target;
+
+    bool check(int i, int currsum , string s , int num){
+        if(i == s.length()){
+            return currsum == num;
         }
 
-        // Invalid partition found, so we return false
-        if (sum > target) return false;
-
-        // If the result for this state is already calculated, return it
-        if (memo[startIndex][sum] != -1) return memo[startIndex][sum];
-
-        bool partitionFound = false;
-
-        // Iterate through all possible substrings starting with startIdx
-        for (int currentIndex = startIndex; currentIndex < stringNum.size();
-             currentIndex++) {
-            // Create partition
-            string currentString =
-                stringNum.substr(startIndex, currentIndex - startIndex + 1);
-            int addend = stoi(currentString);
-
-            // Recursively check if valid partition can be found
-            partitionFound =
-                partitionFound || findPartitions(currentIndex + 1, sum + addend,
-                                                 stringNum, target, memo);
-            if (partitionFound == true) return true;
+        if(currsum > num){
+            return false;
         }
 
-        // Memoize the result for future reference and return its result
-        return memo[startIndex][sum] = partitionFound;
-    }
+        bool possible = false;
+        for(int j = i ; j< s.length(); j++){
+            string sub = s.substr(i, j-i+1);
+            int val = stoi(sub);
 
-    int punishmentNumber(int n) {
-        int punishmentNum = 0;
-        // Iterate through numbers in range [1, n]
-        for (int currentNum = 1; currentNum <= n; currentNum++) {
-            int squareNum = currentNum * currentNum;
-            string stringNum = to_string(squareNum);
+            possible = possible || check(j+1, currsum+val, s, num);
 
-            // Initialize values in memoization array
-            vector<vector<int>> memoArray(stringNum.size(),
-                                          vector<int>(currentNum + 1, -1));
-
-            // Check if valid partition can be found and add squared number if
-            // so
-            if (findPartitions(0, 0, stringNum, currentNum, memoArray)) {
-                punishmentNum += squareNum;
+            if(possible == true){
+                return true ;
             }
         }
-        return punishmentNum;
+        return false;
+    }
+
+
+    int punishmentNumber(int n) {
+        int punish  = 0; 
+
+        for (int num = 1 ; num <= n ; num++){
+            int sq = num*num;
+
+            string s = to_string(sq);
+
+            if(check(0,0,s,num) == true){ // index, current sum , string s,  target  number 
+                punish += sq;
+            }
+        }
+        return punish;
     }
 };
