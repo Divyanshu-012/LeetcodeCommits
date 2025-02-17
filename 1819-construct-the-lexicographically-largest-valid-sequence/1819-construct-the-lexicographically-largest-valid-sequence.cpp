@@ -1,73 +1,62 @@
 class Solution {
 public:
-    vector<int> constructDistancedSequence(int targetNumber) {
-        // Initialize the result sequence with size 2*n - 1 filled with 0s
-        vector<int> resultSequence(targetNumber * 2 - 1, 0);
 
-        // Keep track of which numbers are already placed in the sequence
-        vector<bool> isNumberUsed(targetNumber + 1, false);
+    bool solve(int i , int n , vector<int>& result, vector<bool>& used){
+        if(i >= result.size()){
+            return true;
 
-        // Start recursive backtracking to construct the sequence
-        findLexicographicallyLargestSequence(0, resultSequence, isNumberUsed,
-                                             targetNumber);
+        }
+        if(result[i] != -1){ // aage badho 
+            return solve(i+1,n,result,used);
+        }
 
-        return resultSequence;
+        for(int num = n ; num >= 1 ; num--){
+            if(used[num]){
+                continue;
+            }
+
+            //try
+            used[num] = true;
+            result[i] = num;
+
+            //explore
+            if(num == 1){
+                if(solve(i+1,n,result, used)){
+                    return true;
+                }
+            }else{
+                int j = result[i] + i;
+                
+                if(j < result.size() && result[j] == -1){
+                    result[j] = num;
+                    if(solve(i+1,n,result,used)){
+                        return true;
+                    }
+                    result[j] = -1;
+                }
+
+            }
+
+            //undo
+            used[num] = false;
+            result[i] = -1;
+
+        }
+        return false;
     }
 
-private:
-    // Recursive function to generate the desired sequence
-    bool findLexicographicallyLargestSequence(int currentIndex,
-                                              vector<int>& resultSequence,
-                                              vector<bool>& isNumberUsed,
-                                              int targetNumber) {
-        // If we have filled all positions, return true indicating success
-        if (currentIndex == resultSequence.size()) {
-            return true;
-        }
+    vector<int> constructDistancedSequence(int n) {
+        int size = 2*n - 1;
 
-        // If the current position is already filled, move to the next index
-        if (resultSequence[currentIndex] != 0) {
-            return findLexicographicallyLargestSequence(
-                currentIndex + 1, resultSequence, isNumberUsed, targetNumber);
-        }
+        vector<int>result(size,-1);
 
-        // Attempt to place numbers from targetNumber to 1 for a
-        // lexicographically largest result
-        for (int numberToPlace = targetNumber; numberToPlace >= 1;
-             numberToPlace--) {
-            if (isNumberUsed[numberToPlace]) continue;
+        vector<bool>used(n+1,false);
 
-            isNumberUsed[numberToPlace] = true;
-            resultSequence[currentIndex] = numberToPlace;
+        solve(0, n, result , used);
 
-            // If placing number 1, move to the next index directly
-            if (numberToPlace == 1) {
-                if (findLexicographicallyLargestSequence(
-                        currentIndex + 1, resultSequence, isNumberUsed,
-                        targetNumber)) {
-                    return true;
-                }
-            }
-            // Place larger numbers at two positions if valid
-            else if (currentIndex + numberToPlace < resultSequence.size() &&
-                     resultSequence[currentIndex + numberToPlace] == 0) {
-                resultSequence[currentIndex + numberToPlace] = numberToPlace;
+        return result;
 
-                if (findLexicographicallyLargestSequence(
-                        currentIndex + 1, resultSequence, isNumberUsed,
-                        targetNumber)) {
-                    return true;
-                }
 
-                // Undo the placement for backtracking
-                resultSequence[currentIndex + numberToPlace] = 0;
-            }
-
-            // Undo current placement and mark the number as unused
-            resultSequence[currentIndex] = 0;
-            isNumberUsed[numberToPlace] = false;
-        }
-
-        return false;
+        
     }
 };
