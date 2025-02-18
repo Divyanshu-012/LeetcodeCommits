@@ -1,33 +1,36 @@
 class Solution {
 public:
-    int numTilePossibilities(string tiles) {
+    int n ;
+    void solve(string tiles, vector<bool> & used, unordered_set<string>& result,string &curr){
+        result.insert(curr);
 
-        int charCount[26] = {0};
-        for (char c : tiles) {
-            charCount[c - 'A']++;
-        }
-
-       
-        return findSequences(charCount);
-    }
-
-private:
-    int findSequences(int charCount[26]) {
-        int totalCount = 0;
-
-        
-        for (int pos = 0; pos < 26; pos++) {
-            if (charCount[pos] == 0) {
+        for(int i = 0; i  < n ; i++){
+            if(used[i] ){
                 continue;
             }
 
-            
-            totalCount++;
-            charCount[pos]--;
-            totalCount += findSequences(charCount);
-            charCount[pos]++;
-        }
+            used[i] = true;
+            curr.push_back(tiles[i]);
 
-        return totalCount;
+            solve(tiles , used, result, curr);
+
+            used[i] = false;
+            curr.pop_back();
+        }
+    }
+
+    int numTilePossibilities(string tiles) {
+        n = tiles.length();
+        
+        vector<bool> used(n,false);
+
+        unordered_set<string> result;
+
+        string curr = "";
+
+        solve(tiles, used, result , curr);
+
+        return result.size()-1; // exclude the empty string 
+        
     }
 };
