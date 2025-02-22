@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1078-remove-outermost-parentheses) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1304-longest-happy-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
