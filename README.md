@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2677-cousins-in-binary-tree-ii) |
