@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0021-merge-two-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
