@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0670-maximum-swap) |
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
