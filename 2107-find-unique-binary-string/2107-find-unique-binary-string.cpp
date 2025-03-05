@@ -1,19 +1,19 @@
 class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
-        unordered_set<int> integers;
-        for (string num : nums) {
-            integers.insert(stoi(num, 0, 2));
+        int n = nums.size(); 
+        unordered_set<int> st;
+        for (int i = 0; i < n; i++) {
+            st.insert(stoi(nums[i], 0, 2));
         }
-        
-        int n = nums.size();
-        for (int num = 0; num <= n; num++) {
-            if (integers.find(num) == integers.end()) {
-                string ans = bitset<16>(num).to_string();
-                return ans.substr(16 - n);
+
+        for (int i = 0; i <= n; i++) {
+            if (st.find(i) == st.end()) { 
+                string temp = bitset<16>(i).to_string();
+                return temp.substr(16 - n, n); 
             }
         }
-        
-        return "";
+
+        return ""; 
     }
 };
