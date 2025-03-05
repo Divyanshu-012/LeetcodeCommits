@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -816,4 +817,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
