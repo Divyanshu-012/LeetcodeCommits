@@ -1,84 +1,70 @@
 class Solution {
 public:
-    int mostProfitablePath(vector<vector<int>>& edges, int bob,
-                           vector<int>& amount) {
-        int n = amount.size(), maxIncome = INT_MIN;
-        tree.resize(n);
-        visited.assign(n, false);
-        queue<vector<int>> nodeQueue;
-        nodeQueue.push({0, 0, 0});
+    unordered_map<int, vector<int>>adj;
+    unordered_map<int,int>bobMap;
+    int aliceIncome;
 
-        // Form tree with edges
-        for (vector<int> edge : edges) {
-            tree[edge[0]].push_back(edge[1]);
-            tree[edge[1]].push_back(edge[0]);
-        }
+    bool DFSBob(int curr, int t, vector<bool>&vis){
+        vis[curr] = true;
+        bobMap[curr] = t;
 
-        // Find the path taken by bob to reach node 0 and the times it takes to
-        // get there
-        findBobPath(bob, 0);
-
-        // Breadth First Search
-        visited.assign(n, false);
-        while (!nodeQueue.empty()) {
-            int sourceNode = nodeQueue.front()[0], time = nodeQueue.front()[1],
-                income = nodeQueue.front()[2];
-
-            // Alice reaches the node first
-            if (bobPath.find(sourceNode) == bobPath.end() ||
-                time < bobPath[sourceNode]) {
-                income += amount[sourceNode];
-            }
-
-            // Alice and Bob reach the node at the same time
-            else if (time == bobPath[sourceNode]) {
-                income += (amount[sourceNode] / 2);
-            }
-
-            // Update max value if current node is a new leaf
-            if (tree[sourceNode].size() == 1 && sourceNode != 0) {
-                maxIncome = max(maxIncome, income);
-            }
-            // Explore adjacent unvisited vertices
-            for (int adjacentNode : tree[sourceNode]) {
-                if (!visited[adjacentNode]) {
-                    nodeQueue.push({adjacentNode, time + 1, income});
-                }
-            }
-
-            // Mark and remove current node
-            visited[sourceNode] = true;
-            nodeQueue.pop();
-        }
-        return maxIncome;
-    }
-
-private:
-    unordered_map<int, int> bobPath;
-    vector<bool> visited;
-    vector<vector<int>> tree;
-
-    // Depth First Search
-    bool findBobPath(int sourceNode, int time) {
-        // Mark and set time node is reached
-        bobPath[sourceNode] = time;
-        visited[sourceNode] = true;
-
-        // Destination for Bob is found
-        if (sourceNode == 0) {
+        if(curr == 0){
             return true;
         }
 
-        // Traverse through unvisited nodes
-        for (auto adjacentNode : tree[sourceNode]) {
-            if (!visited[adjacentNode]) {
-                if (findBobPath(adjacentNode, time + 1)) {
+        for(auto it: adj[curr]){
+            if(!vis[it]){
+                if(DFSBob(it , t+1, vis) == true){
                     return true;
                 }
             }
         }
-        // If node 0 isn't reached, remove current node from path
-        bobPath.erase(sourceNode);
+
+        bobMap.erase(curr);
         return false;
+    }
+
+    void DFSAlice(int curr, int t ,int income,  vector<bool> & vis, vector<int>& amount){
+        vis[curr] = true;
+
+        if(bobMap.find(curr) == bobMap.end() || t < bobMap[curr]){
+            income += amount[curr];
+        } else if ( t == bobMap[curr]){
+            income += (amount[curr]/2);
+        }
+
+        if(adj[curr].size() == 1 && curr != 0){ //leaf node
+            aliceIncome = max(aliceIncome, income);
+        }
+
+        for(int &ngbr : adj[curr]){
+            if(!vis[ngbr]){
+                DFSAlice(ngbr, t+1, income, vis,amount);
+            }
+        }
+    }
+
+    int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
+        int n = amount.size(); // no. of nodes 
+
+        aliceIncome = INT_MIN ;
+        for(vector<int> & edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
+        }
+
+        //DFS ON FINDING TIME TO REACH EACH NODE TILL 0
+        int time = 0;
+        vector<bool>vis(n,false);
+        DFSBob(bob, time,vis);
+
+        int income = 0;
+        vis.assign(n,false);
+        DFSAlice( 0, 0, income,vis, amount);
+
+        return aliceIncome;
     }
 };
