@@ -1,9 +1,10 @@
 class Solution {
 public:
     vector<int> closestPrimes(int left, int right) {
+
         int prevPrime = -1, closestA = -1, closestB = -1;
         int minDifference = 1e6;
-        // Find all prime numbers in the given range
+        
         for (int i = left; i <= right; i++) {
             if (isPrime(i)) {
                 if (prevPrime != -1) {
@@ -14,7 +15,7 @@ public:
                         closestB = i;
                     }
                     // Twin prime optimization
-                    if (difference == 2 or difference == 1)
+                    if (difference == 2 || difference == 1)
                         return {prevPrime, i};
                 }
                 prevPrime = i;
