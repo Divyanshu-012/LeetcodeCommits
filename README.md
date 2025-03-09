@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3483-alternating-groups-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
