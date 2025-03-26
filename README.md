@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2610-closest-prime-numbers-in-range) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2447-merge-similar-items](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
