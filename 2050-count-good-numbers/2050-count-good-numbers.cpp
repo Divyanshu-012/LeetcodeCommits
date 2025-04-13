@@ -2,17 +2,17 @@
 
 class Solution {
 public:
-    // Function to perform modular exponentiation
+    
     long long modPow(long long base, long long exp) {
         long long result = 1;
         while (exp > 0) {
             
             
             if (exp % 2 == 1) { 
-                result = (result * base) % mod;  // If exp is odd, multiply the base with the result
+                result = (result * base) % mod;  
             }
-            base = (base * base) % mod;  // Square the base
-            exp /= 2;  // Divide the exponent by 2
+            base = (base * base) % mod;  
+            exp /= 2;  
             
         }
         return result;
