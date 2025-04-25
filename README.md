@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2145-grid-game](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
 ## Greedy
 |  |
 | ------- |
