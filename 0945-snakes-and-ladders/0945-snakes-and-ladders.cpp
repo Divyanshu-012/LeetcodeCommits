@@ -1,8 +1,6 @@
 class Solution {
 public:
     int n;
-
-   
     pair<int, int> getCoordinate(int step) {
         int row = n - 1 - (step - 1) / n;
         int col = (step - 1) % n;
