@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
