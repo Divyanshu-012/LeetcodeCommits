@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
+| [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2262-solving-questions-with-brainpower) |
