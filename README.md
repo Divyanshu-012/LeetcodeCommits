@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0127-word-ladder) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0124-binary-tree-maximum-path-sum) |
