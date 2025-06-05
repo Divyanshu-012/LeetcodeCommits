@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
