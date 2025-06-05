@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3684-substring-matching-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3684-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3684-substring-matching-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3684-substring-matching-pattern) |
 ## Hash Function
 |  |
 | ------- |
