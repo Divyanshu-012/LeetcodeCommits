@@ -4,12 +4,14 @@ public:
 
         if(i < 0 )return j+1;
         if(j <0) return i+1 ;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s[i]==t[j]) return 0+ fn(i-1,j-1,s,t,dp);
 
-        int m = min(1+fn(i-1,j,s,t,dp),1+fn(i,j-1,s,t,dp));
-        int ans = min(m,1+fn(i-1,j-1,s,t,dp));
-        return dp[i][j]=ans;
+        if(dp[i][j]!=-1) return dp[i][j];
+
+        if(s[i]==t[j]) return 0 + fn(i-1,j-1,s,t,dp);
+
+        return dp[i][j]= 1+ min(fn(i-1,j,s,t,dp),min(fn(i,j-1,s,t,dp),fn(i-1,j-1,s,t,dp)));
+        
+        
         
     }
     int minDistance(string s, string t) {
