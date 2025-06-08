@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
