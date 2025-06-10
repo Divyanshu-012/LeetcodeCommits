@@ -1,27 +1,30 @@
 class Solution {
-private:
-    int getReqNum(long a,long b,long &n){
-        int gap=0; 
-        while(a <= n){
-            gap += min(n+1,b)-a;
-            a*=10;
-            b*=10;
-        }
-        return gap;
-    }
 public:
-    int findKthNumber(long n, int k) {
-        long num = 1;
-        for(int i=1; i<k;){
-            int req = getReqNum(num,num+1,n);
-            if(i+req <= k){
-                i+=req;
-                num++;
-            }else{
-                i++;
-                num *= 10;
+    int Count(long curr, long next, int n) {
+        int cnt = 0;
+        while (curr <= n) {
+            cnt += min((long)n + 1, next) - curr;
+            curr *= 10;
+            next *= 10;
+        }
+        return cnt;
+    }
+
+    int findKthNumber(int n, int k) {
+        int curr = 1;
+        k--; // we consider 1 as already included
+
+        while (k > 0) {
+            int cnt = Count(curr, curr + 1, n);
+            if (cnt <= k) {
+                curr += 1;
+                k -= cnt;
+            } else {
+                curr *= 10;
+                k--;
             }
         }
-        return num;
+
+        return curr;
     }
 };
