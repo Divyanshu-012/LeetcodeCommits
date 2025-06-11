@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3684-substring-matching-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3684-substring-matching-pattern) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3483-alternating-groups-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Topological Sort
 |  |
 | ------- |
