@@ -6,8 +6,9 @@ public:
             ++c[ch];
         }
         int maxOdd = 1, minEven = s.size();
-        for (const auto& [_, value] : c) {
-            if (value % 2 == 1) {
+        for (const auto& val: c) {
+            int value = val.second;
+            if (val.second % 2 == 1) {
                 maxOdd = max(maxOdd, value);
             } else {
                 minEven = min(minEven, value);
