@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
