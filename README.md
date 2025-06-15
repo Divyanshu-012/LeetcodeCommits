@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0695-max-area-of-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
