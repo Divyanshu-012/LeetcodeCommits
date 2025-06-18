@@ -1,20 +1,27 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        unordered_map<int, int> prefixCount;
-        prefixCount[0] = 1;
-        
-        int sum = 0;
-        int count = 0;
-        
-        for (int num : nums) {
-            sum += num;
-            if (prefixCount.find(sum - goal) != prefixCount.end()) {
-                count += prefixCount[sum - goal];
+    
+    int fn(vector<int>& nums, int goal) {
+        int l = 0, r = 0, n = nums.size();
+        int cnt = 0, sum = 0;
+
+        while (r < n) {
+            sum += nums[r];
+
+            while (l <= r && sum > goal) {
+                sum -= nums[l];
+                l++;
             }
-            prefixCount[sum]++;
+
+            cnt += (r - l + 1);
+            r++;
         }
-        
-        return count;
+
+        return cnt;
+    }
+
+  
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return fn(nums, goal) - fn(nums, goal - 1);
     }
 };
