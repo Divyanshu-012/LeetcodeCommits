@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int atMost(vector<int>& nums, int goal) {
+    int fn(vector<int>& nums, int goal) {
         int l = 0, r = 0, n = nums.size();
         int cnt = 0, sum = 0;
 
         while (r < n) {
-            sum += nums[r]%2;
+            if(nums[r]%2 != 0) sum ++;
 
-            while (l <= r && sum > goal) {
-                sum -= nums[l]%2;
+// giviing wrong answer for the case [2,1,1], k = 1
+            while ( sum > goal) {
+                if(nums[l] %2 != 0)sum --;
                 l++;
             }
 
@@ -20,6 +21,6 @@ public:
     }
 
     int numberOfSubarrays(vector<int>& nums, int k) {
-        return atMost(nums, k) - atMost(nums, k - 1);
+        return fn(nums,k) - fn(nums,k-1);
     }
 };
