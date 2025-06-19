@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
