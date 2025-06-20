@@ -18,10 +18,6 @@ public:
             } 
         }
 
-        // if(ans == 0){
-        //     if(c[n-1]==0)return 0; //true always
-            
-        // }
         return ans;
     }
 };
