@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -1064,4 +1066,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
