@@ -14,7 +14,8 @@ public:
             int x = abs(north - south);
             int y = abs(east - west);
             int MD = x + y;
-            int dis = MD + min(2 * k, i + 1 - MD);
+            int dis = MD + min(2 * k, i + 1 - MD); //  i+1 = no. of steps i walked 
+            // 2*k kyu kiaa , becoz ek k sei 2 steps ka faida hota hai , ek jo cacnel out ho rha hota vo , aur ek khud add ho kr jo dia usne yogdaan 
             ans = max(ans, dis);
         }
         
