@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
