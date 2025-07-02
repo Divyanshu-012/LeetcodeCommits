@@ -1,46 +1,36 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        
-        stack<string> st;
-        string res;
-        
-        for(int i = 0;  i<path.size(); ++i)
-        {
-            if(path[i] == '/')    
-                continue;
-            string temp;
-			// iterate till we doesn't traverse the whole string and doesn't encounter the last /
-            while(i < path.size() && path[i] != '/')
-            {
-				// add path to temp string
-                temp += path[i];
-                ++i;
+        stack<string>st;
+        int n = path.size();
+        int i =0;
+        while(i<n){
+             while (i < n && path[i] == '/') i++;
+            
+            string s ="";
+
+            while(i<n && path[i]!='/'){
+                s+=path[i];
+                i++;
             }
-            if(temp == ".")
-                continue;
-			// pop the top element from stack if exists
-            else if(temp == "..")
-            {
+            if(s == ".." ){
                 if(!st.empty())
-                    st.pop();
+                st.pop();
             }
-            else
-			// push the directory file name to stack
-                st.push(temp);
+            else if(s=="." || s == "")continue;
+            
+            else{
+                st.push(s);
+            }
+            
         }
-        
-		// adding all the stack elements to res
-        while(!st.empty())
-        {
-            res = "/" + st.top() + res;
+        string ans = "";
+        while (!st.empty()) {
+            string top = st.top();
             st.pop();
+            ans = "/"+top + ans; 
         }
-        
-		// if no directory or file is present
-        if(res.size() == 0)
-            return "/";
-        
-        return res;
+        if(ans=="")return "/";
+        return ans;
     }
 };
