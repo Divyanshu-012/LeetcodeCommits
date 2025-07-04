@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2050-count-good-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Graph
 |  |
 | ------- |
