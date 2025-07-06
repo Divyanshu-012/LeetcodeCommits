@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1923-sentence-similarity-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2048-build-array-from-permutation) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 |  |
