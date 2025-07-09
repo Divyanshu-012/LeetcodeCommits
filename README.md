@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0854-making-a-large-island) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0854-making-a-large-island) |
@@ -1132,4 +1136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
