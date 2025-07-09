@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Bit Manipulation
 |  |
@@ -913,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3195-separate-black-and-white-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3483-alternating-groups-ii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
