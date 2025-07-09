@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
