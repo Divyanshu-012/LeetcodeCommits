@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
