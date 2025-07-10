@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0191-number-of-1-bits) |
+| [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
