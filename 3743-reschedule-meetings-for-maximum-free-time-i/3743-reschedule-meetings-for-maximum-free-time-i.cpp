@@ -23,7 +23,7 @@ public:
         while(j<m){
             cSum += freeArray[j];
 
-            while(i<m && j-i+1 > k+1){
+            while(i<m && j-i > k){
                 cSum -= freeArray[i];
                 i++;
             }
