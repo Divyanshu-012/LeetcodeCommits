@@ -2,27 +2,36 @@ class Solution {
 public:
     int maxFreeTime(int eventTime, int k, vector<int>& st, vector<int>& et) {
         int n = st.size();
-        vector<int> gaps(n + 1);
-
-        // Compute gaps
-        gaps[0] = st[0];  
-        gaps[n] = eventTime - et[n - 1];  
-        for(int i = 1; i < n; i++){
-            gaps[i] = st[i] - et[i - 1];
+        vector<int>freeArray;
+        if(st[0]!=0){
+            
+            freeArray.push_back(st[0]);
+        }
+        for(int i =1;i<n;i++){
+            freeArray.push_back(st[i]-et[i-1]);
+        }
+        if(et[n-1]!= eventTime){
+            freeArray.push_back(eventTime- et[n-1]);
         }
 
-        // Sliding window of size k + 1
-        int window = 0;
-        for(int i = 0; i <= k; i++){
-            window += gaps[i];
+        int i =0;
+        int j =0;
+        int mxSum =0;
+        int cSum=0;
+
+        int m = freeArray.size();
+        while(j<m){
+            cSum += freeArray[j];
+
+            while(i<m && j-i+1 > k+1){
+                cSum -= freeArray[i];
+                i++;
+            }
+            mxSum = max(mxSum,cSum);
+        j++;
         }
 
-        int ans = window;
-        for(int i = k + 1; i <= n; i++){
-            window += gaps[i] - gaps[i - (k + 1)];
-            ans = max(ans, window);
-        }
-
-        return ans;
+        return mxSum;
     }
+    
 };
