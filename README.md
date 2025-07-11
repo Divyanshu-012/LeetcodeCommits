@@ -828,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0217-contains-duplicate) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
@@ -1087,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0232-implement-queue-using-stacks) |
@@ -1184,4 +1187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
