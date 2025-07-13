@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
