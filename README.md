@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3195-separate-black-and-white-balls) |
 | [3207-make-three-strings-equal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3207-make-three-strings-equal) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
