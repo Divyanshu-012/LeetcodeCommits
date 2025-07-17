@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0219-contains-duplicate-ii) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1304-longest-happy-string) |
@@ -972,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
@@ -1200,4 +1204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
