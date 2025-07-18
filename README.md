@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0219-contains-duplicate-ii) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
