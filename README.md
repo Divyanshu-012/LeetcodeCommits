@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0016-3sum-closest) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0017-letter-combinations-of-a-phone-number) |
