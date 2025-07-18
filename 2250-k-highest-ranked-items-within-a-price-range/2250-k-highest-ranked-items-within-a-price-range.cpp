@@ -20,7 +20,7 @@ public:
             for(int i=0;i<4;i++){
                 int nx = x + dir[i][0];
                 int ny = y + dir[i][1];
-                if(nx<0 or ny<0 or nx>=n or ny>=m) continue;
+                if(nx<0 || ny<0 || nx>=n || ny>=m) continue;
                 if(grid[nx][ny]==0) continue;
                 pq.push({dist+1,grid[nx][ny],nx,ny});
                 grid[nx][ny] = 0;
