@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0088-merge-sorted-array) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0101-symmetric-tree) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
@@ -833,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0289-game-of-life) |
