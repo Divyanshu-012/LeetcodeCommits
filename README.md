@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
