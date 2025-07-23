@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0125-valid-palindrome) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0121-best-time-to-buy-and-sell-stock) |
