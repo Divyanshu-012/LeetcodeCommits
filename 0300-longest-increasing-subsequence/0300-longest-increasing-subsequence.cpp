@@ -4,15 +4,19 @@ public:
         int n = nums.size();
         if (idx >= n) return 0;
 
-        if (dp[idx][p + 1] != -1) return dp[idx][p + 1];
+
+        if (p != -1 && dp[idx][p ] != -1) return dp[idx][p ];
 
         int take = 0;
         if (p == -1 || nums[idx] > nums[p]) {
             take = 1 + fn(nums, idx + 1, idx, dp);
         }
         int skip = fn(nums, idx + 1, p, dp);
-
-        return dp[idx][p + 1] = max(take, skip);
+        if(p != -1){
+            dp[idx][p] = max(take, skip);
+        }
+        
+        return max(take,skip);
     }
 
     int lengthOfLIS(vector<int>& nums) {
