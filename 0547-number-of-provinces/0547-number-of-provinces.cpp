@@ -1,38 +1,41 @@
 class Solution {
 public:
+    void dfs(int idx,vector<int>&vis,unordered_map<int,vector<int>>&adj){
+        vis[idx] = true;
 
-    void dfs(int node, vector<int> &vis,vector<vector<int>> &adjLs){
-        
-        vis[node] = 1;
-        for(auto it : adjLs[node]){
-            if(!vis[it]){
-                dfs(it, vis, adjLs);   
+        for(auto ngh: adj[idx]){
+            if(!vis[ngh]){
+                
+                dfs(ngh,vis,adj);
             }
-
+            
         }
-
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        
-        int V = isConnected.size(); 
-        vector<vector<int>> adjLs(V); // Adjacency list
-        
-        for(int i = 0; i<V;i++){
-            for(int  j = 0 ; j< V; j++){
-                if(isConnected[i][j] == 1 && i!=j){
-                    adjLs[i].push_back(j);
-                    adjLs[j].push_back(i);
+    int findCircleNum(vector<vector<int>>& isC) {
+        int n = isC.size();
+        int cnt = 0;
+        unordered_map<int,vector<int>>adj;
+
+        for(int i = 0; i<n;i++){
+            for(int j = 0; j<n;j++){
+                if(isC[i][j] == 1 && i!=j){
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
                 }
+               
             }
         }
-        vector<int> vis(V,0);
-        int cnt = 0;
-        for(int  i = 0 ; i< V;i++){
+        
+    vector<int>vis(n,false);
+        for(int i = 0 ; i<n;i++){
+           
             if(!vis[i]){
                 cnt++;
-                dfs(i,vis,adjLs);
+                dfs(i,vis,adj);
             }
+            
         }
+
         return cnt;
     }
 };
