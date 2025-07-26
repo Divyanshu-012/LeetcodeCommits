@@ -1,53 +1,35 @@
 class Solution {
 public:
+    int delrow[4] = {-1,0,0,1};
+    int delcol[4] = {0,-1,1,0};
 
-    void bfs(int i, int j, vector<vector<int>> &image, int initialColor, vector<vector<int>> &vis, int color){
-        queue<pair<int, int>> q;
-        vis[i][j] = 1;
-        q.push({i, j});
-        int n = image.size();
-        int m = image[0].size();
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int m = image.size();
+        int n = image[0].size();
+        vector<vector<int>>vis(m,vector<int>(n,false));
 
-        int delrow[] = {-1, 0, 1, 0};
-        int delcol[] = {0, 1, 0, -1};
+        int rem = image[sr][sc];
+        image[sr][sc] = color;
+        
+        queue<pair<int,int>>q;
+        q.push({sr,sc});
 
         while(!q.empty()){
             int row = q.front().first;
             int col = q.front().second;
             q.pop();
-
             
-            image[row][col] = color;
-
-            
-            for(int k = 0; k < 4; k++){
-                int nrow = row + delrow[k];
+            for(int k= 0;k<4;k++){
+                int nrow = row+delrow[k];
                 int ncol = col + delcol[k];
-                
-                
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && !vis[nrow][ncol] && image[nrow][ncol] == initialColor){
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
+
+                if(nrow >= 0 && nrow < m &&  ncol >=0   && ncol < n && !vis[nrow][ncol] && image[nrow][ncol] == rem){
+                    q.push({nrow,ncol});
+                    image[nrow][ncol] = color;
+                    vis[nrow][ncol] = true;
                 }
             }
         }
-    }
-
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int n = image.size();
-        int m = image[0].size();
-
-        
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-
-        // Get the initial color of the starting pixel
-        int initialColor = image[sr][sc];
-
-        
-        if(initialColor != color) {
-            bfs(sr, sc, image, initialColor, vis, color);
-        }
-
         return image;
     }
 };
