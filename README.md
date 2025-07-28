@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1150,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1256-rank-transform-of-an-array) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1777-determine-if-two-strings-are-close) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
