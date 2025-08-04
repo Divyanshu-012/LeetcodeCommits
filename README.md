@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
