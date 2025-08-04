@@ -1,64 +1,62 @@
 class Solution {
 public:
-    int n, N;
-    inline bool inside(int i, int j){
-        return 0<=i && i<n && 0<=j && j<n;
-    }
-    inline int idx(int i,  int j){
-        return i*n+j;
-    }
-    const int d[5]={0, 1, 0, -1, 0};
-    vector<int> viz;
+    int delrow[4] = {-1,1,0,0};
+    int delcol[4] = {0,0,-1,1};
 
-    int dfs(int i, int j, int comp, vector<vector<int>>& grid) {
-        viz[idx(i, j)] = comp;
-        int cnt = 1;
-        for (int a=0; a < 4; a++) {
-            int r=i+d[a], s=j+d[a+1];
-            if (inside(r, s) && grid[r][s]==1 && viz[idx(r, s)]==-1)
-                cnt+= dfs(r, s, comp, grid);
+    int dfs(int row, int col, int uniq_id,vector<vector<int>>& grid) {
+        int n = grid.size();
+    grid[row][col]=uniq_id;
+    int cnt = 1;
+       for(int k = 0; k<4;k++){
+        int nrow= row+delrow[k];
+        int ncol = col+delcol[k];
+
+        if(nrow < n&& nrow >= 0&& ncol <n && ncol >=0 && grid[nrow][ncol] == 1){
+            cnt+= dfs(nrow,ncol,uniq_id,grid);
         }
-        return cnt;
+       }
+       return cnt;
     }
 
     int largestIsland(vector<vector<int>>& grid) {
-        n = grid.size();
-        N = n*n;
-        viz.assign(N, -1);
-        
-        int maxSz=1, comp=0;
-        vector<int> Size; 
+        int n = grid.size();
+        int uniq_id = 2;
+        unordered_map<int,int>mp;
+        int size = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j]==1 && viz[idx(i, j)]==-1) {
-                    int cnt=dfs(i, j, comp++, grid);
-                    Size.push_back(cnt);
-                    maxSz=max(maxSz, cnt);
+        for(int i = 0;i<n;i++){
+            for(int j = 0; j<n;j++){
+                if(grid[i][j]== 1){
+                    int cnt = dfs(i,j,uniq_id,grid);
+                    size = max(size,cnt);
+                    mp[uniq_id] = cnt;
+                    uniq_id++;
                 }
             }
         }
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
-                if (grid[i][j]==0){
-                    int component[4]={N, N, N, N};
-                    int cz=0;
-                    for( int a=0; a<4; a++){
-                        const int r=i+d[a], s=j+d[a+1];
-                        if (inside(r, s) && grid[r][s]!=0)
-                            component[cz++]=viz[idx(r, s)];
+        for(int i = 0; i<n;i++){
+            for(int j = 0 ;j<n;j++){
+                if(grid[i][j] == 0){
+                    unordered_set<int>uniqueId;
+                    for(int k = 0;k<4;k++){
+                        int i_ = i+delrow[k];
+                        int j_ = j+delcol[k];
+                        if(i_ >= 0 && i_ <n && j_ >=0 && j_ <n && grid[i_][j_] !=0){
+                            uniqueId.insert(grid[i_][j_]);
+                        }
                     }
-                    if (cz==0) continue;
-                    sort(component, component+cz);
-                    int sz=1+Size[component[0]];
-                    for (int k=1; k<cz; k++)
-                        if (component[k]!=component[k-1]) 
-                            sz+=Size[component[k]];
-                    maxSz=max(maxSz, sz);
+
+                    int overallSize = 1;
+                    for(auto it: uniqueId){
+                        overallSize += mp[it];
+                    }
+                    size = max(size,overallSize);
                 }
             }
         }
-        return maxSz;
+        return size;
+
+
     }
 };
