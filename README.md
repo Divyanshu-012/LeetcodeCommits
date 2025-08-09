@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1694-make-sum-divisible-by-p) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -858,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1558-course-schedule-iv) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
@@ -891,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-number-of-closed-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -926,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2132-convert-1d-array-into-2d-array) |
