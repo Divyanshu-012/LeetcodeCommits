@@ -23,6 +23,7 @@ vector<vector<int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
             int y = coord.second;
 
+            if(x == m-1 && y == n-1)return diff;
             
 
             
