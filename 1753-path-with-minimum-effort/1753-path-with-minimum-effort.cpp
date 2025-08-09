@@ -1,43 +1,47 @@
 class Solution {
 public:
+vector<vector<int>> dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
     int minimumEffortPath(vector<vector<int>>& heights) {
         if (heights.empty()) {
             return 0;
         }
         
-        int rows = heights.size();
-        int cols = heights[0].size();
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> minHeap; // {effort, row, col}
-        minHeap.push({0, 0, 0});
-        int maxEffort = 0;
-        set<string> visited;
+        int m = heights.size();
+        int n = heights[0].size();
+        priority_queue<pair<int,pair<int,int>>, vector<pair<int,pair<int,int>>>, greater<pair<int,pair<int,int>>>> minHeap;
+        
+        
+        vector<vector<int>>res(m,vector<int>(n,INT_MAX));
+        res[0][0]= 0;
+        minHeap.push({0,{0, 0}});
 
         while (!minHeap.empty()) {
-            auto current = minHeap.top();
-            minHeap.pop();
-            int effort = current[0];
-            int curRow = current[1];
-            int curCol = current[2];
+            auto diff = minHeap.top().first;
+           auto coord = minHeap.top().second;
+           minHeap.pop();
+            int x = coord.first;
 
-            maxEffort = max(maxEffort, effort);
-            if (curRow == rows - 1 && curCol == cols - 1) {
-                return maxEffort;
-            }
-            visited.insert(to_string(curRow) + "," + to_string(curCol));
+            int y = coord.second;
 
-            vector<vector<int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-            for (const auto& direction : directions) {
-                int newRow = curRow + direction[0];
-                int newCol = curCol + direction[1];
+            
 
-                if (0 <= newRow && newRow < rows && 0 <= newCol && newCol < cols &&
-                    visited.find(to_string(newRow) + "," + to_string(newCol)) == visited.end()) {
-                    int newEffort = abs(heights[newRow][newCol] - heights[curRow][curCol]);
-                    minHeap.push({newEffort, newRow, newCol});
+            
+            for (auto dir : dirs) {
+                int x_ = x + dir[0];
+                int y_ = y + dir[1];
+
+                
+                if (0 <= x_ && x_ < m && 0 <= y_ && y_ < n ) {
+                    int absDiff = abs(heights[x_][y_] - heights[x][y]);
+                     int maxDiff = max(diff, absDiff);
+                    if(res[x_][y_] > maxDiff){
+                        res[x_][y_] = maxDiff;
+                        minHeap.push({maxDiff, {x_, y_}});
+                    }
                 }
             }
         }
         
-        return maxEffort;        
+        return res[m-1][n-1];        
     }
 };
