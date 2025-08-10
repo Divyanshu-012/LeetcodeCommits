@@ -1376,4 +1376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1203-print-in-order) |
+| [1316-fizz-buzz-multithreaded](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1316-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
