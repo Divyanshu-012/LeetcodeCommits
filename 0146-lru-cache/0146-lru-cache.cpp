@@ -1,77 +1,47 @@
 class LRUCache {
 public:
-    class Node{
-        public: 
-            int key;
-            int val;
-            Node* prev;
-            Node* next;
-
-            Node(int key, int val){
-                this->key = key;
-                this->val = val;
-            }
-    };
-
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
-
-    int cap;
-    unordered_map<int, Node*> m;
-
+    list<int>dll;
+    map<int,pair<list<int>::iterator,int>>mp; // remember the syntax for storing the address of list or dll 
+    int n;
     LRUCache(int capacity) {
-        cap = capacity;
-        head -> next = tail;
-        tail -> prev = head;
+        n = capacity;
     }
+    void makeRecentlyUsed(int key){
 
-    void addNode(Node* newnode){
-        Node* temp = head -> next;
+        dll.erase(mp[key].first);
 
-        newnode -> next = temp;
-        newnode -> prev = head;
+        dll.push_front(key);
 
-        head -> next = newnode;
-        temp -> prev = newnode;
+        mp[key].first = dll.begin();
     }
-
-    void deleteNode(Node* delnode){
-        Node* prevv = delnode -> prev;
-        Node* nextt = delnode -> next;
-
-        prevv -> next = nextt;
-        nextt -> prev = prevv;
-    }
-    
     int get(int key) {
-        if(m.find(key) != m.end()){
-            Node* resNode = m[key];
-            int ans = resNode -> val;
-
-            m.erase(key);
-            deleteNode(resNode);
-            addNode(resNode);
-
-            m[key] = head -> next;
-            return ans;
+        if(mp.find(key) == mp.end()){
+            return -1;
         }
-        return -1;
+
+        makeRecentlyUsed(key);
+
+        return mp[key].second;
+
     }
     
     void put(int key, int value) {
-        if(m.find(key) != m.end()){
-            Node* curr = m[key];
-            m.erase(key);
-            deleteNode(curr);
+        if(mp.find(key) == mp.end()){
+            dll.push_front(key);
+            mp[key] = {dll.begin(),value};
+            n--;
+        }else{
+            mp[key].second = value;
+            makeRecentlyUsed(key);
         }
-
-        if(m.size() == cap){
-            m.erase(tail -> prev -> key);
-            deleteNode(tail -> prev);
+        if(n<0){
+            int key_toBe_del = dll.back();
+            mp.erase(key_toBe_del);
+            dll.pop_back();
+            n++;
         }
+        
 
-        addNode(new Node(key, value));
-        m[key] = head -> next;
     }
 };
 
