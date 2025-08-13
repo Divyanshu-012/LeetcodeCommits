@@ -978,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1371,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 ## Quickselect
 |  |
 | ------- |
