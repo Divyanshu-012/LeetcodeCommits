@@ -7,7 +7,7 @@ public:
             mp[ch-'A']++;
         }
         int time = 0;
-        priority_queue<int>pq; // max-heap
+        priority_queue<int>pq; 
 
         for(int i =0;i<26;i++){
             if(mp[i]>0){
@@ -17,7 +17,7 @@ public:
 
         while(!pq.empty()){
             vector<int>temp;
-            for(int j = 1;j<=n+1;j++){
+            for(int j = 0;j<=n;j++){
                 if(!pq.empty()){
                     int freq = pq.top();
                     pq.pop();
