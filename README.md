@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3567-convert-date-to-binary) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
@@ -1210,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Counting
 |  |
@@ -1315,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Topological Sort
 |  |
@@ -1328,10 +1332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1349,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Queue
 |  |
 | ------- |
