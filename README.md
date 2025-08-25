@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0399-evaluate-division) |
+| [0424-longest-repeating-character-replacement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0520-detect-capital) |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
@@ -1301,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0940-fruit-into-baskets) |
