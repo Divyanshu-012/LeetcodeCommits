@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0092-reverse-linked-list-ii) |
@@ -1119,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -1396,4 +1399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-print-in-order](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1203-print-in-order) |
 | [1316-fizz-buzz-multithreaded](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1316-fizz-buzz-multithreaded) |
 | [1340-the-dining-philosophers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1340-the-dining-philosophers) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
