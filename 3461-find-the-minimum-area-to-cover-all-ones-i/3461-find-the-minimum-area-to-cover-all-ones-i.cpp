@@ -7,9 +7,9 @@ public:
         int n = grid.size();
         int m = grid[0].size();
         int rLeast = n;
-        int rMax = 1;
+        int rMax = -1;
         int cLeast = m;
-        int cMax = 1;
+        int cMax = -1;
         int cnt = 0;
 
         for(int i = 0; i<n;i++){
