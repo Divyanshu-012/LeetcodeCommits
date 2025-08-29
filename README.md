@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3483-alternating-groups-ii) |
@@ -1385,10 +1387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Counting Sort
 |  |
 | ------- |
