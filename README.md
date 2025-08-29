@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2211-k-radius-subarray-averages](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2211-k-radius-subarray-averages) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1319,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2211-k-radius-subarray-averages](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2211-k-radius-subarray-averages) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
