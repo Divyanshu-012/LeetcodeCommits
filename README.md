@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3429-special-array-i) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3567-convert-date-to-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3567-convert-date-to-binary) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3430-count-days-without-meetings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1369,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Topological Sort
@@ -1408,6 +1412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Queue
 |  |
