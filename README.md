@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Math
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
