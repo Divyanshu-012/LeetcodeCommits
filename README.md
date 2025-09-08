@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
