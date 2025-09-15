@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1304-longest-happy-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1304-longest-happy-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1308-smallest-string-with-swaps](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
