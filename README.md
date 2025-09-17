@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2363-maximum-trailing-zeros-in-a-cornered-path) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2447-merge-similar-items](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2479-meeting-rooms-iii) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2107-find-unique-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2107-find-unique-binary-string) |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
@@ -1353,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 ## Sliding Window
 |  |
@@ -1430,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2447-merge-similar-items) |
 ## Data Stream
