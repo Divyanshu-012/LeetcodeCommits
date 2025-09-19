@@ -5,8 +5,8 @@ public:
 
     TaskManager(vector<vector<int>>& tasks) {
         for (vector<int> task: tasks) {
-            heap.push({task.at(2), task.at(1)});
-            metadata[task.at(1)] = {task.at(2), task.at(0)};
+            heap.push({task[2], task[1]});
+            metadata[task[1]] = {task[2], task[0]};
         }
     }
     
