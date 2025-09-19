@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3797-design-spreadsheet) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Dynamic Programming
 |  |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3797-design-spreadsheet) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Bit Manipulation
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3797-design-spreadsheet) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
 ## Prefix Sum
 |  |
@@ -1362,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
