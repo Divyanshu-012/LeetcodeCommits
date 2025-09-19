@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3934-coupon-code-validator) |
@@ -1359,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1438,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2434-design-a-number-container-system) |
 | [2447-merge-similar-items](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2447-merge-similar-items) |
+| [3678-design-task-manager](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
