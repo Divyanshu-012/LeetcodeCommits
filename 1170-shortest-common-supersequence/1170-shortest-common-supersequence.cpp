@@ -19,6 +19,7 @@ public:
         }
 
         string ans = "";
+        
         int i = n,j=m;
         while(i>0 && j>0){
             if(s[i-1] == t[j-1]){
