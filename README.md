@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0621-task-scheduler) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
