@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1315,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2448-count-number-of-bad-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2486-most-frequent-even-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
