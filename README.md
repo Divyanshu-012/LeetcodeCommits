@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
