@@ -19,7 +19,7 @@ public:
     unordered_map<long long, int> seen; // remainder -> index in result
 
     while (rem != 0) {
-        if (seen.count(rem)) {
+        if (seen.find(rem)!= seen.end()) {
             result.insert(seen[rem], "(");
             result += ")";
             break;
