@@ -20,11 +20,12 @@ private:
             while (k < 0) {
                 freq[nums[i]]--;
                 if (freq[nums[i]] == 0) {
-                    k++;  
+                    k++;   
                 }
                 i++;
             }
 
+          
             ans += (j - i + 1);
         }
         return ans;
