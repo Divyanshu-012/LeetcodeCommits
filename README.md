@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1006-vowel-spellchecker) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1310,6 +1312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1396-count-servers-that-communicate) |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
