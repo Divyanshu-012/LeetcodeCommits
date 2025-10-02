@@ -8,10 +8,11 @@ public:
         int mini = INT_MAX;
 
         for(int i = 1; i<= nums[idx];i++){
-            int next = fn(idx + i, nums, dp);
-            if (next != INT_MAX) {
-                mini = min(mini, 1 + next); 
+            int next = fn(idx+i,nums,dp);
+            if(next != INT_MAX){
+                mini = min(mini, 1+next);
             }
+            
         }
         return dp[idx] = mini;
     }
