@@ -1,40 +1,42 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     typedef long long ll;
-    int n;                                
-    unordered_map<ll,ll> mp;      
-    vector<ll> t;           
+    unordered_map<ll, ll> mp; // total damage per unique power
+    vector<ll> nums;
+    vector<ll> dp;
+    int n;
 
-    long long solve(int i, const vector<ll>& nums) {
-        if (i >= n) 
-            return 0;
+    ll solve(int idx) {
+        if (idx >= n) return 0;
+        if (dp[idx] != -1) return dp[idx];
 
-        if (t[i] != -1)
-            return t[i];
+        ll val = nums[idx];
+        ll take = mp[val]; // total damage for this spell type
 
-        //skip current damage
-        ll skip = solve(i + 1, nums);
+        // find next index that is safe to take (diff > 2)
+        int nextIdx = idx + 1;
+        while (nextIdx < n && nums[nextIdx] <= val + 2)
+            nextIdx++;
 
-        //take current damage
-        int j = lower_bound(begin(nums) + i + 1, end(nums), nums[i] + 3) - begin(nums);
-        ll take = nums[i] * mp[nums[i]] + solve(j, nums);
+        // 2 choices: take or skip
+        ll include = take + solve(nextIdx);
+        ll exclude = solve(idx + 1);
 
-        return t[i] = max(skip, take);
+        return dp[idx] = max(include, exclude);
     }
 
     long long maximumTotalDamage(vector<int>& power) {
-        for (int x : power) 
-            mp[x]++;
+        mp.clear();
+        for (auto p : power) mp[p] += p; // store total damage per power
 
-        vector<ll> nums(mp.size());
-
-        for (auto &p : mp)
-            nums.push_back(p.first);
-
-        sort(begin(nums), end(nums));
+        for (auto& it : mp) nums.push_back(it.first);
+        sort(nums.begin(), nums.end());
         n = nums.size();
-        t.assign(n, -1);
+        dp.assign(n, -1);
 
-        return solve(0, nums);
+        return solve(0);
     }
 };
