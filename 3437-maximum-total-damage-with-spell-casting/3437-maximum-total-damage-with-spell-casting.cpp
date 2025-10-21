@@ -1,10 +1,7 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     typedef long long ll;
-    unordered_map<ll, ll> mp; // total damage per unique power
+    unordered_map<ll, ll> mp; 
     vector<ll> nums;
     vector<ll> dp;
     int n;
@@ -14,14 +11,14 @@ public:
         if (dp[idx] != -1) return dp[idx];
 
         ll val = nums[idx];
-        ll take = mp[val]; // total damage for this spell type
+        ll take = mp[val]; 
 
-        // find next index that is safe to take (diff > 2)
+        
         int nextIdx = idx + 1;
         while (nextIdx < n && nums[nextIdx] <= val + 2)
             nextIdx++;
 
-        // 2 choices: take or skip
+        
         ll include = take + solve(nextIdx);
         ll exclude = solve(idx + 1);
 
@@ -29,8 +26,8 @@ public:
     }
 
     long long maximumTotalDamage(vector<int>& power) {
-        mp.clear();
-        for (auto p : power) mp[p] += p; // store total damage per power
+        // mp.clear();
+        for (auto p : power) mp[p] += p; 
 
         for (auto& it : mp) nums.push_back(it.first);
         sort(nums.begin(), nums.end());
