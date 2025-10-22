@@ -1,32 +1,52 @@
 class Solution {
 public:
-    int sumSubarrayMins(vector<int>& arr) {
-        int n = arr.size();
-        const int MOD = 1e9 + 7;
-
-        vector<int> left(n), right(n);
+    vector<int> getNSL(vector<int>& arr, int n) {
+        vector<int> NSL(n);
         stack<int> st;
 
-        // Previous less element
         for (int i = 0; i < n; i++) {
             while (!st.empty() && arr[st.top()] > arr[i]) st.pop();
-            left[i] = st.empty() ? (i + 1) : (i - st.top());
+
+            if (st.empty()) NSL[i] = -1;       // no smaller to left
+            else NSL[i] = st.top();            // index of smaller element
+
             st.push(i);
         }
+        return NSL;
+    }
 
-        while (!st.empty()) st.pop();
+    vector<int> getNSR(vector<int>& arr, int n) {
+        vector<int> NSR(n);
+        stack<int> st;
 
-        // Next less element
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && arr[st.top()] >= arr[i]) st.pop();
-            right[i] = st.empty() ? (n - i) : (st.top() - i);
+
+            if (st.empty()) NSR[i] = n;        // no smaller to right
+            else NSR[i] = st.top();            // index of smaller element
+
             st.push(i);
         }
+        return NSR;
+    }
 
-        long long ans = 0;
+    int sumSubarrayMins(vector<int>& arr) {
+        int n = arr.size();
+        vector<int> NSL = getNSL(arr, n);
+        vector<int> NSR = getNSR(arr, n);
+
+        long long sum = 0;
+        long long M = 1e9 + 7;
+
         for (int i = 0; i < n; i++) {
-            ans = (ans + 1LL * arr[i] * left[i] * right[i]) % MOD;
+            long long ls = i - NSL[i];     // elements to left where arr[i] is min
+            long long rs = NSR[i] - i;     // elements to right where arr[i] is min
+
+            long long totalWays = ls * rs; // total subarrays where arr[i] is min
+            long long totalSum = (1LL * arr[i] * totalWays) % M;
+
+            sum = (sum + totalSum) % M;
         }
-        return ans;
+        return sum;
     }
 };
