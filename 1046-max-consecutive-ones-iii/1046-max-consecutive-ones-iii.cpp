@@ -3,13 +3,13 @@ public:
     int longestOnes(vector<int>& nums, int k) {
         int n = nums.size();
         int r = 0; int l = 0;
-        int  t = k;
-        int cnt = 0;int cntz=0;
+        
+        int cnt = 0;
         while (r < n) {
-            if (nums[r] == 0) cntz++;
+            if (nums[r] == 0) k--;
 
-            while (cntz > k) {
-                if (nums[l] == 0) cntz--;
+            while (k <0) {
+                if (nums[l] == 0) k++;
                 l++;
             }
 
