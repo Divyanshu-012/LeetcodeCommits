@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0794-swim-in-rising-water) |
+| [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
@@ -1107,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0889-buddy-strings) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
@@ -1259,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -1421,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
+| [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
 ## Memoization
 |  |
 | ------- |
@@ -1437,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1477-product-of-the-last-k-numbers) |
