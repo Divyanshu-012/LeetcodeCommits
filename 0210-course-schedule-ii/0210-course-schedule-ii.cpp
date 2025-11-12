@@ -3,18 +3,19 @@ public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         int V = numCourses;
         vector<vector<int>>adj(V);
-
+         vector<int>indegree(V,0);
         for(auto it : prerequisites){
             adj[it[1]].push_back(it[0]);
+            indegree[it[0]]++;
         }
 
         //indegree
-        vector<int>indegree(V,0);
-        for(int  i= 0 ; i< V; i++){
-            for(auto  it: adj[i]){
-                indegree[it]++;
-            }
-        }
+        // vector<int>indegree(V,0);
+        // for(int  i= 0 ; i< V; i++){
+        //     for(auto  it: adj[i]){
+        //         indegree[it]++;
+        //     }
+        // }
 
 
 
