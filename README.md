@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -1571,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
