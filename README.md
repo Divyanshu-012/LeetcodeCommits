@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2211-k-radius-subarray-averages](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2211-k-radius-subarray-averages) |
 | [2227-sum-of-subarray-ranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2227-sum-of-subarray-ranges) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2047-find-a-peak-element-ii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
