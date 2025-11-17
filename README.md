@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0393-utf-8-validation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0260-single-number-iii) |
+| [0393-utf-8-validation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
