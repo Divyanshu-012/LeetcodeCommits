@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0463-island-perimeter) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
@@ -1450,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0789-kth-largest-element-in-a-stream) |
