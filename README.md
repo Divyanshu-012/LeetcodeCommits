@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3272-find-the-grid-of-region-average](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3272-find-the-grid-of-region-average) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1076,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
+| [3272-find-the-grid-of-region-average](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3272-find-the-grid-of-region-average) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
