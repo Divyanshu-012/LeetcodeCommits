@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0780-max-chunks-to-make-sorted) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0854-making-a-large-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0906-walking-robot-simulation) |
