@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
+| [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0407-trapping-rain-water-ii) |
