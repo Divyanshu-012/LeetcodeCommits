@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1664,4 +1666,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1908-recyclable-and-low-fat-products) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
