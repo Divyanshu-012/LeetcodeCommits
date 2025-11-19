@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
