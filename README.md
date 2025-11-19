@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0583-delete-operation-for-two-strings) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
 | [0672-bulb-switcher-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0693-binary-number-with-alternating-bits) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0400-nth-digit) |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1488,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 ## Design
 |  |
 | ------- |
@@ -1679,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -1687,4 +1692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
