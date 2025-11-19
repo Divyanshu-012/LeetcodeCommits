@@ -1,23 +1,21 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        double ans = 1.0;
-        long long exp = abs(static_cast<long long>(n));  // Use long long to handle the edge case where n is INT_MIN
+        double ans = 1;
+        long long nn = n;
+        if (nn < 0) nn = -nn;
 
-        if(n<0) x = 1/x;
-        
-            while (exp > 0) {
-            if (exp % 2 == 1) {  // If exp is odd, multiply ans by x
+        while (nn) {
+            if (nn % 2 == 0) {
+                x = x * x;
+                nn = nn / 2;
+            } else {
                 ans = ans * x;
+                nn = nn - 1;
             }
-            x = x * x;  // Square the base
-            exp /= 2;   // Reduce exp by half
         }
-        
-        
 
-      
-      return ans;
-        
+        if (n < 0) ans = 1.0 / ans;
+        return ans;
     }
 };
