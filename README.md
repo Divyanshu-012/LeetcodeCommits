@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -1566,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Ordered Set
