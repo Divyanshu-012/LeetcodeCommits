@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0319-bulb-switcher) |
 | [0343-integer-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1160-letter-tile-possibilities) |
