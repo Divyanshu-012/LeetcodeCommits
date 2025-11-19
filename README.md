@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0214-shortest-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0383-ransom-note) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0496-next-greater-element-i) |
