@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0476-number-complement) |
+| [0672-bulb-switcher-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0693-binary-number-with-alternating-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0670-maximum-swap) |
+| [0672-bulb-switcher-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0672-bulb-switcher-ii) |
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0662-maximum-width-of-binary-tree) |
+| [0672-bulb-switcher-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0672-bulb-switcher-ii) |
 | [0684-redundant-connection](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0733-flood-fill) |
