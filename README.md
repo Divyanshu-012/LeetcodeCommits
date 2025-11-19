@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0400-nth-digit) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0300-longest-increasing-subsequence) |
+| [0400-nth-digit](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0540-single-element-in-a-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0794-swim-in-rising-water) |
