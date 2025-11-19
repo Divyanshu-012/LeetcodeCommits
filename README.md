@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0725-split-linked-list-in-parts) |
 | [0817-design-hashmap](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0817-design-hashmap) |
@@ -1670,4 +1672,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
