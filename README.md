@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
+| [0372-super-pow](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0372-super-pow) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1322,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
