@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0392-is-subsequence) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0368-largest-divisible-subset) |
 | [0556-next-greater-element-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0564-find-the-closest-palindrome) |
