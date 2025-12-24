@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0868-push-dominoes](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0943-sum-of-subarray-minimums) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1250-longest-common-subsequence) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0952-word-subsets) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1002-maximum-width-ramp) |
