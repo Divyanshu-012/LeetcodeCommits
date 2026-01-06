@@ -31,7 +31,7 @@ public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
         sort(nums.begin(), nums.end());  
         int n = nums.size();
-        dp.resize(n, vector<vector<int>>(n + 1));
+        dp = vector<vector<vector<int>>>(n, vector<vector<int>>(n + 1));
 
         return fn(0, -1, nums);
     }
