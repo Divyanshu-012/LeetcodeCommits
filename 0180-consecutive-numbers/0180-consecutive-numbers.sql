@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select distinct num as ConsecutiveNums from Logs l where (l.num,l.id-1) in (select r.num,r.id from Logs r where r.id=l.id-1) and (l.num,l.id+1) in (select r.num,r.id from Logs r where r.id=l.id+1);
