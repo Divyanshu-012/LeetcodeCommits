@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0282-expression-add-operators) |
