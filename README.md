@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2915-count-of-interesting-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3227-find-missing-and-repeated-values) |
@@ -1661,6 +1663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0223-rectangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3681-maximum-area-rectangle-with-point-constraints-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3681-maximum-area-rectangle-with-point-constraints-i) |
 ## Queue
