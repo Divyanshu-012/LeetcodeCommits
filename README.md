@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0067-add-binary) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0203-remove-linked-list-elements) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1667-find-kth-bit-in-nth-binary-string) |
