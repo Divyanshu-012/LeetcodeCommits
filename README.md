@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0994-rotting-oranges) |
 | [1002-maximum-width-ramp](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1006-vowel-spellchecker) |
+| [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1046-max-consecutive-ones-iii) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0988-flip-equivalent-binary-trees) |
+| [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1073-number-of-enclaves) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
@@ -1137,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0931-minimum-falling-path-sum) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1787,4 +1791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
