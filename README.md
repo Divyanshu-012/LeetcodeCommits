@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2586-longest-square-streak-in-an-array) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1642,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1558-course-schedule-iv) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Indexed Tree
 |  |
@@ -1795,4 +1798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1020-number-of-enclaves) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Divyanshu-012/LeetcodeCommits/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
